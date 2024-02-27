@@ -1,0 +1,7 @@
+# for the first stages of CUT&Tag analysis, following G4_ChIP for the following sections:
+1. merging of repliates
+2. fastqc sequencing analysis
+3. trimming adaptor sequences using fastp
+4. fastqc post trimming
+5. genome building and indexing 
+6. aligning reads using bowtie2
